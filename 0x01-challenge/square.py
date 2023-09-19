@@ -39,4 +39,4 @@ if __name__ == "__main__":
     s = Square(width=12, height=9)
     print(s)
     print(s.area_of_my_square())
-    print(s.Permiter_Of_My_Square())
+    print(s.permiter_Of_My_Square())
